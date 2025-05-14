@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1746599557 source:d:\ltnc\game_ltnc\main.cpp
+	<SDL.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1746292507 source:d:\ltnc\game_ltnc\game.cpp
+	"Game.h"
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1746292495 d:\ltnc\game_ltnc\game.h
+	<SDL.h>
+	<vector>
+	"Qbert.h"
+	"Enemy.h"
+
+1746292483 d:\ltnc\game_ltnc\qbert.h
+
+1746292457 d:\ltnc\game_ltnc\enemy.h
+	<SDL.h>
+
+1746292443 source:d:\ltnc\game_ltnc\main1.cpp
+	"Game.h"
+
+1746292482 source:d:\ltnc\game_ltnc\qbert.cpp
+	"Qbert.h"
+
